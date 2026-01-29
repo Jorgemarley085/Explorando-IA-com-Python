@@ -1,1 +1,4 @@
+# Variáveis de ambiente
 .env
+*.env
+.env.*
